@@ -1,0 +1,55 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x191b)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.080 seconds
+Platform assembly: C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\Build\a11_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.777875 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2cac -> priority: 1 
+  Thread -> id: 8d4 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.675250 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 870.
+Total: 0.622221 ms (FindLiveObjects: 0.052543 ms CreateObjectMapping: 0.037925 ms MarkObjects: 0.377283 ms  DeleteObjects: 0.154073 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.654307 ms
+
+Unloading 157 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 3.501823 ms (FindLiveObjects: 0.043851 ms CreateObjectMapping: 0.023703 ms MarkObjects: 0.372937 ms  DeleteObjects: 3.059749 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.554270 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 638.
+Total: 0.351999 ms (FindLiveObjects: 0.043456 ms CreateObjectMapping: 0.014222 ms MarkObjects: 0.259160 ms  DeleteObjects: 0.034370 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.758812 ms
+
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 1.471998 ms (FindLiveObjects: 0.075061 ms CreateObjectMapping: 0.022913 ms MarkObjects: 0.821332 ms  DeleteObjects: 0.549925 ms)
+

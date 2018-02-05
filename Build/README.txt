@@ -1,0 +1,1 @@
+Alle filene i denne mappen skal pastes sammen med de i den andre mappen(UnityEksamen) første "hierarki" f.eks: C:\Users\eirik\Desktop\Unity\UnityInnlevering2\UnityEksamenFinal\UnityEksamen.
